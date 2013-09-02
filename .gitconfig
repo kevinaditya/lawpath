@@ -1,0 +1,7 @@
+[user]
+	name = Kevin Aditya
+	email = k_vin92@yahoo.com
+[alias]
+	co = checkout
+[core]
+	editor = vim -w
