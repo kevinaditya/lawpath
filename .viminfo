@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :q!
 :dG
 
@@ -150,16 +150,16 @@
 	# gem 'debugger', group: [:development, :test]
 
 # File marks:
-'0  31  0  ~/rails_projects/first_app/Gemfile.lock
-'1  1  0  ~/rails_projects/first_app/Gemfile
+'0  1  0  ~/rails_projects/first_app/Gemfile
+'1  31  0  ~/rails_projects/first_app/Gemfile.lock
 '2  30  0  ~/rails_projects/first_app/Gemfile
 '3  1  2  ~/.gitignore
 '4  1  0  ~/.gemrc
 
 # Jumplist (newest first):
+-'  1  0  ~/rails_projects/first_app/Gemfile
 -'  31  0  ~/rails_projects/first_app/Gemfile.lock
 -'  1  0  ~/rails_projects/first_app/Gemfile.lock
--'  1  0  ~/rails_projects/first_app/Gemfile
 -'  30  0  ~/rails_projects/first_app/Gemfile
 -'  31  0  ~/rails_projects/first_app/Gemfile
 -'  1  2  ~/.gitignore
@@ -232,9 +232,6 @@
 -'  1  0  ~/.gemrc
 -'  1  0  ~/.gemrc
 -'  1  0  ~/.gemrc
--'  1  0  ~/rails_projects/first_app/Gemfile
--'  30  0  ~/rails_projects/first_app/Gemfile
--'  31  0  ~/rails_projects/first_app/Gemfile
 -'  1  2  ~/.gitignore
 -'  1  0  ~/.gemrc
 -'  1  0  ~/.gemrc
@@ -253,14 +250,9 @@
 -'  1  0  ~/.gemrc
 -'  1  0  ~/.gemrc
 -'  1  2  ~/.gitignore
--'  1  0  ~/.gemrc
--'  1  0  ~/.gemrc
 -'  1  0  ~/.gemrc
 
 # History of marks within files (newest to oldest):
-
-> ~/rails_projects/first_app/Gemfile.lock
-	"	31	0
 
 > ~/rails_projects/first_app/Gemfile
 	"	1	0
@@ -273,6 +265,9 @@
 	+	1	28
 	+	25	0
 	+	1	0
+
+> ~/rails_projects/first_app/Gemfile.lock
+	"	31	0
 
 > ~/.gitignore
 	"	1	2
